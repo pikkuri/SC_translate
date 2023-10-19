@@ -1,1 +1,1 @@
-# SC_translate
+# StarCitizenJapaneseResources
